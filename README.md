@@ -11,18 +11,3 @@ Simple Register page
 React frontend
 
 Express backend API
-
-How to Run
-Backend
-cd backend
-npm install
-node server.js
-
-Frontend
-cd frontend
-npm install
-npm start
-
-Endpoints
-POST /login
-POST /register
